@@ -1,5 +1,5 @@
-// Generates a password based on user's first name and birth details.
-The symbol changes depending on the birth month entered //
+# Generates a password based on user's first name and birth details #
+# The symbol changes depending on the birth month entered #
 
 
 # Password Generator
